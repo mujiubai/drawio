@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T07:33:59.020Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="21.0.10" etag="7Iq2aAyKLKlrNGv6tlKc" type="github"><diagram name="第 1 页" id="TWZYC4iZlHUe-XQe4S25">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-09T07:47:13.552Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SMscsC7qHuD78LpjEbmn" version="21.0.10" type="github">
+  <diagram name="第 1 页" id="TWZYC4iZlHUe-XQe4S25">
+    <mxGraphModel dx="1420" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="534" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-3" value="测试房间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/mainframe_host.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-5" value="图一拍摄位置" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-8" value="图二拍摄位置" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-9" value="雷达高度：2.8m左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-10" value="雷达高度：2.8m左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-12" value="5.5m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="445" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSZE5U5HlHoNU23bX9CN-13" value="纸箱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="402" width="42" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
